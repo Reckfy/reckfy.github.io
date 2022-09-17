@@ -1,0 +1,60 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(211, 211, 211);
+}
+header {
+background-color: rgb(255, 255, 255);
+padding: 20px;
+border-radius: 15px;
+
+}
+.header_div{
+    display: inline-block;
+    vertical-align:top;
+}
+.nameblog{
+    margin-left: 30px;
+}
+main{
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.st{
+    border-radius: 10px;
+    background-color: rgb(219, 219, 219);
+    padding: 10px;
+    margin-top: 10px;
+}
+a:link{
+    text-decoration: none;
+    color:rgb(56, 173, 144)
+}
+a:visited{
+    color: rgb(0, 68, 48);
+}
+a:hover{
+    color: rgb(136, 179, 136);
+}
+footer{
+    background-color: rgb(68, 73, 70);
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 10px;
+}
+h4{
+    height: 3px;
+}
+.copyright{
+    text-align: left;
+    display: inline-block;
+}
+.icon{
+    
+    display: inline-block;
+    text-align: right;
+    width: 75%;
+}
